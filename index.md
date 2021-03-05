@@ -1,3 +1,3 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+I'm a PhD student interested in neuroscience, computational biology, machine learning, AI, and software engineering
